@@ -2,4 +2,6 @@
 
 A python snake game
 
-The project is a part of a udemy course
+Use the Arrow keys to play
+
+The project is a part of a Udemy course
