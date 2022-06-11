@@ -63,7 +63,7 @@ class Snake:
     #resetting the snake
     def reset_snake(self):
         #sending the old, removed snakes to a new location that is not visible on screen
-        # this is a way of removing a snake after the its dead 
+        # this is a way of removing a snake after it has died 
         for squares in self.square_list:
             squares.goto(1200, 1200)
         #--------------------------------------
